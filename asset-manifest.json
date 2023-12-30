@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Samruddhi160501/spotify-clone/static/css/main.00c66fba.css",
+    "main.js": "/Samruddhi160501/spotify-clone/static/js/main.3643d851.js",
+    "index.html": "/Samruddhi160501/spotify-clone/index.html",
+    "main.00c66fba.css.map": "/Samruddhi160501/spotify-clone/static/css/main.00c66fba.css.map",
+    "main.3643d851.js.map": "/Samruddhi160501/spotify-clone/static/js/main.3643d851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c66fba.css",
+    "static/js/main.3643d851.js"
+  ]
+}
